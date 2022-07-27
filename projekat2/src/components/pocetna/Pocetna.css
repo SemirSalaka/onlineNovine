@@ -1,0 +1,15 @@
+.kategorije {
+  width: 120%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.zadnjihPet {
+  width: 20em;
+}
+
+.datum {
+  text-align: right;
+  font-weight: bold;
+  width: 110%;
+}

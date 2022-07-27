@@ -1,0 +1,22 @@
+.clanak {
+  margin: 5px;
+  padding: 15px 22px;
+  border: 1px solid rgb(146, 136, 136);
+  border-radius: 5px;
+  background-color: rgb(241, 234, 234);
+}
+
+.clanak h2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.clanak h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.clanak p {
+  text-align: right;
+}
